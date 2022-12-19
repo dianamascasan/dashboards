@@ -1,0 +1,43 @@
+competition_id,pretty_name,type,sub_type,country_id,country_name,country_latitude,country_longitude,domestic_league_code,name,confederation,url
+L1,Bundesliga,domestic_league,first_tier,40,Germany,51.1638175,10.4478313,L1,bundesliga,europa,https://www.transfermarkt.co.uk/bundesliga/startseite/wettbewerb/L1
+DFB,Dfb Pokal,domestic_cup,domestic_cup,40,Germany,51.1638175,10.4478313,L1,dfb-pokal,europa,https://www.transfermarkt.co.uk/dfb-pokal/startseite/wettbewerb/DFB
+DFL,Dfl Supercup,other,domestic_super_cup,40,Germany,51.1638175,10.4478313,L1,dfl-supercup,europa,https://www.transfermarkt.co.uk/dfl-supercup/startseite/wettbewerb/DFL
+NL1,Eredivisie,domestic_league,first_tier,122,Netherlands,52.2434979,5.6343227,NL1,eredivisie,europa,https://www.transfermarkt.co.uk/eredivisie/startseite/wettbewerb/NL1
+NLP,Toto Knvb Beker,domestic_cup,domestic_cup,122,Netherlands,52.2434979,5.6343227,NL1,toto-knvb-beker,europa,https://www.transfermarkt.co.uk/toto-knvb-beker/startseite/wettbewerb/NLP
+NLSC,Johan Cruijff Schaal,other,domestic_super_cup,122,Netherlands,52.2434979,5.6343227,NL1,johan-cruijff-schaal,europa,https://www.transfermarkt.co.uk/johan-cruijff-schaal/startseite/wettbewerb/NLSC
+BE1,Jupiler Pro League,domestic_league,first_tier,19,Belgium,50.6402809,4.6667145,BE1,jupiler-pro-league,europa,https://www.transfermarkt.co.uk/jupiler-pro-league/startseite/wettbewerb/BE1
+BESC,Belgian Supercup,other,domestic_super_cup,19,Belgium,50.6402809,4.6667145,BE1,belgian-supercup,europa,https://www.transfermarkt.co.uk/belgian-supercup/startseite/wettbewerb/BESC
+ES1,Laliga,domestic_league,first_tier,157,Spain,39.3260685,-4.8379791,ES1,laliga,europa,https://www.transfermarkt.co.uk/laliga/startseite/wettbewerb/ES1
+CDR,Copa Del Rey,domestic_cup,domestic_cup,157,Spain,39.3260685,-4.8379791,ES1,copa-del-rey,europa,https://www.transfermarkt.co.uk/copa-del-rey/startseite/wettbewerb/CDR
+SUC,Supercopa,other,domestic_super_cup,157,Spain,39.3260685,-4.8379791,ES1,supercopa,europa,https://www.transfermarkt.co.uk/supercopa/startseite/wettbewerb/SUC
+PO1,Liga Portugal Bwin,domestic_league,first_tier,136,Portugal,39.6621648,-8.1353519,PO1,liga-portugal-bwin,europa,https://www.transfermarkt.co.uk/liga-portugal-bwin/startseite/wettbewerb/PO1
+POCP,Allianz Cup,domestic_cup,domestic_cup,136,Portugal,39.6621648,-8.1353519,PO1,allianz-cup,europa,https://www.transfermarkt.co.uk/allianz-cup/startseite/wettbewerb/POCP
+POSU,Supertaca Candido De Oliveira,other,domestic_super_cup,136,Portugal,39.6621648,-8.1353519,PO1,supertaca-candido-de-oliveira,europa,https://www.transfermarkt.co.uk/supertaca-candido-de-oliveira/startseite/wettbewerb/POSU
+FR1,Ligue 1,domestic_league,first_tier,50,France,46.603354,1.8883335,FR1,ligue-1,europa,https://www.transfermarkt.co.uk/ligue-1/startseite/wettbewerb/FR1
+FRCH,Trophee Des Champions,other,domestic_super_cup,50,France,46.603354,1.8883335,FR1,trophee-des-champions,europa,https://www.transfermarkt.co.uk/trophee-des-champions/startseite/wettbewerb/FRCH
+GB1,Premier League,domestic_league,first_tier,189,England,52.5310214,-1.2649062,GB1,premier-league,europa,https://www.transfermarkt.co.uk/premier-league/startseite/wettbewerb/GB1
+CGB,Efl Cup,domestic_cup,domestic_cup,189,England,52.5310214,-1.2649062,GB1,efl-cup,europa,https://www.transfermarkt.co.uk/efl-cup/startseite/wettbewerb/CGB
+GBCS,Community Shield,other,domestic_super_cup,189,England,52.5310214,-1.2649062,GB1,community-shield,europa,https://www.transfermarkt.co.uk/community-shield/startseite/wettbewerb/GBCS
+RU1,Premier Liga,domestic_league,first_tier,141,Russia,64.6863136,97.7453061,RU1,premier-liga,europa,https://www.transfermarkt.co.uk/premier-liga/startseite/wettbewerb/RU1
+RUP,Russian Cup,domestic_cup,domestic_cup,141,Russia,64.6863136,97.7453061,RU1,russian-cup,europa,https://www.transfermarkt.co.uk/russian-cup/startseite/wettbewerb/RUP
+RUSS,Russian Super Cup,other,domestic_super_cup,141,Russia,64.6863136,97.7453061,RU1,russian-super-cup,europa,https://www.transfermarkt.co.uk/russian-super-cup/startseite/wettbewerb/RUSS
+UKR1,Premier Liga,domestic_league,first_tier,177,Ukraine,49.4871968,31.2718321,UKR1,premier-liga,europa,https://www.transfermarkt.co.uk/premier-liga/startseite/wettbewerb/UKR1
+UKRP,Ukrainian Cup,domestic_cup,domestic_cup,177,Ukraine,49.4871968,31.2718321,UKR1,ukrainian-cup,europa,https://www.transfermarkt.co.uk/ukrainian-cup/startseite/wettbewerb/UKRP
+UKRS,Ukrainian Super Cup,other,domestic_super_cup,177,Ukraine,49.4871968,31.2718321,UKR1,ukrainian-super-cup,europa,https://www.transfermarkt.co.uk/ukrainian-super-cup/startseite/wettbewerb/UKRS
+SC1,Scottish Premiership,domestic_league,first_tier,190,Scotland,56.7861112,-4.1140518,SC1,scottish-premiership,europa,https://www.transfermarkt.co.uk/scottish-premiership/startseite/wettbewerb/SC1
+SFA,Sfa Cup,domestic_cup,domestic_cup,190,Scotland,56.7861112,-4.1140518,SC1,sfa-cup,europa,https://www.transfermarkt.co.uk/sfa-cup/startseite/wettbewerb/SFA
+IT1,Serie A,domestic_league,first_tier,75,Italy,42.6384261,12.674297,IT1,serie-a,europa,https://www.transfermarkt.co.uk/serie-a/startseite/wettbewerb/IT1
+CIT,Italy Cup,domestic_cup,domestic_cup,75,Italy,42.6384261,12.674297,IT1,italy-cup,europa,https://www.transfermarkt.co.uk/italy-cup/startseite/wettbewerb/CIT
+SCI,Supercoppa Italiana,other,domestic_super_cup,75,Italy,42.6384261,12.674297,IT1,supercoppa-italiana,europa,https://www.transfermarkt.co.uk/supercoppa-italiana/startseite/wettbewerb/SCI
+GR1,Super League 1,domestic_league,first_tier,56,Greece,38.9953683,21.9877132,GR1,super-league-1,europa,https://www.transfermarkt.co.uk/super-league-1/startseite/wettbewerb/GR1
+GRP,Kypello Elladas,domestic_cup,domestic_cup,56,Greece,38.9953683,21.9877132,GR1,kypello-elladas,europa,https://www.transfermarkt.co.uk/kypello-elladas/startseite/wettbewerb/GRP
+TR1,Super Lig,domestic_league,first_tier,174,Turkey,38.9597594,34.9249653,TR1,super-lig,europa,https://www.transfermarkt.co.uk/super-lig/startseite/wettbewerb/TR1
+DK1,Superligaen,domestic_league,first_tier,39,Denmark,55.670249,10.3333283,DK1,superligaen,europa,https://www.transfermarkt.co.uk/superligaen/startseite/wettbewerb/DK1
+DKP,Sydbank Pokalen,domestic_cup,domestic_cup,39,Denmark,55.670249,10.3333283,DK1,sydbank-pokalen,europa,https://www.transfermarkt.co.uk/sydbank-pokalen/startseite/wettbewerb/DKP
+USC,Uefa Super Cup,other,uefa_super_cup,-1,,46.3144754,11.0480288,,uefa-super-cup,europa,https://www.transfermarkt.co.uk/uefa-super-cup/startseite/pokalwettbewerb/USC
+CL,Uefa Champions League,international_cup,uefa_champions_league,-1,,46.3144754,11.0480288,,uefa-champions-league,europa,https://www.transfermarkt.co.uk/uefa-champions-league/startseite/pokalwettbewerb/CL
+EL,Europa League,international_cup,europa_league,-1,,46.3144754,11.0480288,,europa-league,europa,https://www.transfermarkt.co.uk/europa-league/startseite/pokalwettbewerb/EL
+KLUB,Fifa Klub Wm,other,fifa_club_world_cup,-1,,46.3144754,11.0480288,,fifa-klub-wm,europa,https://www.transfermarkt.co.uk/fifa-klub-wm/startseite/pokalwettbewerb/KLUB
+ECLQ,Uefa Europa Conference League Qualifikation,international_cup,uefa_europa_conference_league_qualifiers,-1,,46.3144754,11.0480288,,uefa-europa-conference-league-qualifikation,europa,https://www.transfermarkt.co.uk/uefa-europa-conference-league-qualifikation/startseite/pokalwettbewerb/ECLQ
+CLQ,Uefa Champions League Qualifikation,international_cup,uefa_champions_league_qualifying,-1,,46.3144754,11.0480288,,uefa-champions-league-qualifikation,europa,https://www.transfermarkt.co.uk/uefa-champions-league-qualifikation/startseite/pokalwettbewerb/CLQ
+ELQ,Europa League Qualifikation,international_cup,europa_league_qualifying,-1,,46.3144754,11.0480288,,europa-league-qualifikation,europa,https://www.transfermarkt.co.uk/europa-league-qualifikation/startseite/pokalwettbewerb/ELQ
